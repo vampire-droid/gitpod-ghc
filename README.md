@@ -1,6 +1,6 @@
 # `gitpod-ghc`
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TerrorJack/gitpod-ghc)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vampire-droid/gitpod-ghc/)
 
 A Gitpod workspace for hacking GHC in your browser.
 
